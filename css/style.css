@@ -1,0 +1,42 @@
+.img-active{
+    border: 2px solid red !important;
+}
+.img-profile{
+    width: 70px !important;
+    height: 70px !important;
+}
+
+.img-re{
+    width: 60px !important;
+    height: 60px !important;
+}
+
+.post-img{
+    border-radius: 10px;
+}
+
+.header-img{
+    min-height: 50px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.project-hover:hover{
+    transition: 0.5s;
+    background-color: whitesmoke;
+    color: black !important;
+}
+
+.project-hover{
+    transition: 0.5s;
+
+}
+
+.fontlu{
+    font-family: 'Montserrat', sans-serif;
+}
+.rounded-widget{
+    border-radius: 15px;
+}

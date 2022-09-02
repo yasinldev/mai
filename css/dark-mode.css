@@ -1,0 +1,17 @@
+body{
+    background: #363636 !important;
+}
+
+.card{
+    color: #FFFFFf;
+    background: #3c3c3c;
+}
+
+.project-badge{
+    color: gray !important;
+}
+
+.modal-content{
+    background: #3c3c3c;
+    color: #FFFFFf;
+}
