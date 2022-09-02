@@ -7,7 +7,7 @@ PHP based Social Media project integrated with Github
   <li>Start <b>Apache</b> servers thats it.</li>
 </ul>
 <h3>A Brief Information</h3>
-<p>Database information has not been shared yet, it will be shared soon.</p>
+<p>This is not the final version of the project. The images in the screenshots may change in the next updates.</p>
 <br>
 
 <h2>Developers</h2>
