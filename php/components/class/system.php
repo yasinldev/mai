@@ -2,7 +2,6 @@
 
 /**
  * @author yasiiw <https://github.com/yasiiw/>
- * @for Artado Project <https://github.com/Artado-Project/>
  * @with love <3
  *
  * Database Connection with PDOStatements
