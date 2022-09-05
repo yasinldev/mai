@@ -1,5 +1,6 @@
-# Mai
+# Mai - DEMO
 PHP based Social Media project integrated with Github
+THIS IS THE DEMO OF THE PROJECT, THE PROJECT WILL BE PUBLISHED ON ANOTHER PAGE
 
 <h2>Installation</h2>
 <ul>
