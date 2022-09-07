@@ -1,5 +1,5 @@
 # Mai
-PHP based Social Media project integrated with Github
+PHP based Social Media project with Github OAuth
 
 <h2>Installation</h2>
 <ul>
@@ -31,7 +31,6 @@ PHP based Social Media project integrated with Github
 | user settings section | 😨 | HIGH |
 | footer | 😦 | LOW |
 | DM Section | 😧 | MEDIUM |
-| using github features | 😧 | MEDIUM |
 | design improvements | 😨 | HIGH |
 | integration with other social media platforms (Spotify, Discord, Instagram) | 😨 | HIGH |
 | changelog | 😧 | MEDIUM |
