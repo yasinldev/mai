@@ -1,6 +1,5 @@
-# Mai - DEMO
-PHP based Social Media project integrated with Github
-THIS IS THE DEMO OF THE PROJECT, THE PROJECT WILL BE PUBLISHED ON ANOTHER PAGE
+# Mai
+PHP based Social Media project with Github OAuth
 
 <h2>Installation</h2>
 <ul>
@@ -32,7 +31,6 @@ THIS IS THE DEMO OF THE PROJECT, THE PROJECT WILL BE PUBLISHED ON ANOTHER PAGE
 | user settings section | 😨 | HIGH |
 | footer | 😦 | LOW |
 | DM Section | 😧 | MEDIUM |
-| using github features | 😧 | MEDIUM |
 | design improvements | 😨 | HIGH |
 | integration with other social media platforms (Spotify, Discord, Instagram) | 😨 | HIGH |
 | changelog | 😧 | MEDIUM |
