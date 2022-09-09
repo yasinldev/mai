@@ -4,7 +4,7 @@ PHP based Social Media project with Github OAuth
 <h2>Installation</h2>
 <ul>
   <li>Clone or Download this repository</li>
-  <li>Start <b>Apache</b> servers thats it.</li>
+  <li>Start your <b>web server</b> and <b>make sure it can execute PHP scripts</b> thats it.</li>
 </ul>
 <h3>A Brief Information</h3>
 <p>This is not the final version of the project. The images in the screenshots may change in the next updates.</p>
