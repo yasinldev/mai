@@ -13,6 +13,7 @@ PHP based Social Media project with Github OAuth
 <h2>Developers</h2>
 <ul>
   <li><a href="https://github.com/yasiiw">Yasiiw</a> -  Project mainteiner, main developer, made current frontend</li>
+  <li><a href="https://github.com/akif9748">Akif</a> - Tester</li>"
 </ul>
 <br>
 <h2>Screenshot</h2>
