@@ -8,7 +8,7 @@ PHP based Social Media project with Github OAuth
 </ul>
 <h3>A Brief Information</h3>
 <p>This is not the final version of the project. The images in the screenshots may change in the next updates.</p>
-<p><b>There will be no updates to the repo anymore, these files are on behalf of mai. mai will continue to be closed to development.</b></p>
+<p><b>There will be no updates to the repo anymore, these files are on behalf of mai. mai will continue to be closed to development. (FOR NOW)</b></p>
 <br>
 
 <h2>Developers</h2>
